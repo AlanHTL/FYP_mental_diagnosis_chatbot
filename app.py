@@ -189,9 +189,6 @@ ASSESSMENTS = {
     "DASS-21": {
         "name": "Depression Anxiety Stress Scales",
         "description": "Measures depression, anxiety, and stress levels",
-    "DASS-21": {
-        "name": "Depression Anxiety Stress Scales",
-        "description": "Measures depression, anxiety, and stress levels",
         "questions": [
             "I found it hard to wind down",
             "I was aware of dryness of my mouth",
@@ -220,7 +217,6 @@ ASSESSMENTS = {
             "Applied to me to some degree, or some of the time",
             "Applied to me to a considerable degree, or a good part of time",
             "Applied to me very much, or most of the time"
-        ],
             "I found it hard to wind down",
             "I was aware of dryness of my mouth",
             "I couldn't seem to experience any positive feeling at all",
